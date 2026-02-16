@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { Box, Button } from "@mui/material";
 import FolderIcon from '@mui/icons-material/Folder';
-import logo from "../../../public/logo.png";
+
 
 const HeaderPrincipal = () => {
   const styles = getStyles();
