@@ -87,7 +87,7 @@ O projeto consiste em uma interface de gerenciamento que permite a listagem gera
    npm i react-router-dom
    ```
 ### Link de Deploy
-- Vercel: https://estoque-mtz.vercel.app/principal
+- Vercel: https://estoque-mtz.vercel.app
   
 ## Autores
 
